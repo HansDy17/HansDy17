@@ -4,7 +4,7 @@
 </p>
 
 
-<h1>Hello World!, I'm Hans Benson 👋</h1>
+<h1>Hello World! I'm Hans Benson 👋</h1>
 <p>On a journey to master web development — persistent, curious, and passionate about learning.</p>
 
 🛜 Currently working on my own a laravel web application<br>👨🏼‍🎓 Studied Bachelor of Computer Science at Mindanao State University - Iligan Institute of Technology<br>👨🏼‍💻 Aspiring Software Engineer/ Web Developer 
