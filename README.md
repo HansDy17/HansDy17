@@ -43,7 +43,9 @@
   <a href="https://www.buymeacoffee.com/hansdy157">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
   </a>
-</p>
 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hansdy15) 
+
+</p>
+
 
