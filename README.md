@@ -1,15 +1,14 @@
 <!-- Centered Quote Banner -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Banner" style="max-width: 100%; width: 800px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Banner" style="max-width: 100%; width: 700px;" />
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=HansDy17&icon=10&color=13)](https://visitcount.itsvg.in)
 
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 
 <h1>Hello World!, I'm Hans Benson 👋</h1>
 <p>On a journey to master web development — persistent, curious, and passionate about learning.</p>
 
-🛜 Currently working on my own a laravel web application<br>👨🏼‍🎓 Studied Bachelor of Computer Science at Mindanao State University - Iligan Institute of Technology<br>👨🏼‍💻 Aspiring be a Software Engineer/ Web Developer 
+🛜 Currently working on my own a laravel web application<br>👨🏼‍🎓 Studied Bachelor of Computer Science at Mindanao State University - Iligan Institute of Technology<br>👨🏼‍💻 Aspiring Software Engineer/ Web Developer 
 
 
 # 💻 Tech Stack:
@@ -47,7 +46,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" alt="Buy Me A Coffee" />
   </a>
   <a href="https://paypal.me/hansdy15" target="_blank  style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" width="120" alt="PayPal" />
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" width="115" alt="PayPal" />
   </a>
 </p>
 
