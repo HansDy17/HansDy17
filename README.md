@@ -2,13 +2,8 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Banner" style="max-width: 100%; width: 800px;" />
 </p>
-
-<!-- Visit Counter -->
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=HansDy17&icon=10&color=13" alt="Visitor Count" />
-  </a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=HansDy17&icon=10&color=13)](https://visitcount.itsvg.in)
 
 
 <h1>Hello World!, I'm Hans Benson 👋</h1>
@@ -51,8 +46,8 @@
   <a href="https://www.buymeacoffee.com/hansdy157" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" alt="Buy Me A Coffee" />
   </a>
-  <a href="https://paypal.me/hansdy15" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  <a href="https://paypal.me/hansdy15" target="_blank  style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" width="120" alt="PayPal" />
   </a>
 </p>
 
