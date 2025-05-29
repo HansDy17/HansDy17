@@ -3,11 +3,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Banner" style="max-width: 100%; width: 700px;" />
 </p>
 
+
 <h1>Hello World!, I'm Hans Benson 👋</h1>
 <p>On a journey to master web development — persistent, curious, and passionate about learning.</p>
 
 🛜 Currently working on my own a laravel web application<br>👨🏼‍🎓 Studied Bachelor of Computer Science at Mindanao State University - Iligan Institute of Technology<br>👨🏼‍💻 Aspiring Software Engineer/ Web Developer 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HansDy17&show_icons=true&locale=en&layout=compact" alt="HansDy17" /></p>
 
 
 # 💻 Tech Stack:
