@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="snippet-cropped.png" alt="Github Banner" style="width:100%; max-width:1000px;" />
+</p>
+
 <h1>Hi 👋, I'm Hans Benson</h1>
 <p>On a journey to master web development — persistent, curious, and passionate about learning.</p>
 <h2>🚀 Languages and Tools I Use</h2>
