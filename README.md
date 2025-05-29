@@ -1,7 +1,14 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- Centered Quote Banner -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Banner" style="max-width: 100%; width: 800px;" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=HansDy17&icon=10&color=13)](https://visitcount.itsvg.in)
+<!-- Visit Counter -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=HansDy17&icon=10&color=13" alt="Visitor Count" />
+  </a>
+</p>
 
 
 <h1>Hello World!, I'm Hans Benson 👋</h1>
@@ -17,7 +24,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HansDy17&show_icons=true&locale=en&layout=compact" alt="HansDy17" />
 </p>
-
+<h2></h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hansdy17/hansdy17/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hansdy17/hansdy17/output/github-snake.svg" />
@@ -38,15 +45,14 @@
   </a>
 </p>
 
+<!-- Support Me -->
 <h2 align="center">❤️ Support Me</h2>
-
 <p align="center">
-  <a href="https://www.buymeacoffee.com/hansdy157">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+  <a href="https://www.buymeacoffee.com/hansdy157" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" alt="Buy Me A Coffee" />
   </a>
-
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hansdy15) 
-
+  <a href="https://paypal.me/hansdy15" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
 </p>
-
 
