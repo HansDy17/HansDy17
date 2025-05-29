@@ -36,6 +36,9 @@
   <a target="_blank" href="https://www.instagram.com/hansy.dy/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
   </a>
+  <a href="mailto:hansdy15@gmail.com" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Gmail-contact?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="gmail" />
+  </a>  
 </p>
 
 <!-- Support Me -->
