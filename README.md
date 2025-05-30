@@ -2,8 +2,6 @@
 <div style="position: absolute; top: 10px; right: 10px;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hansdy17&title=Visits&color=0E7FC0&style=flat-square" alt="visitor badge" />
 </div>
-
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Banner" style="max-width: 100%; width: 700px;" />
 </p>
